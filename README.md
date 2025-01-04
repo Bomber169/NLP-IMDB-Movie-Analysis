@@ -8,3 +8,9 @@ Description: A dataset containing 50,000 movie reviews labeled as either positiv
 ## Colab Notebook
 
 [Open in Google Colab](https://colab.research.google.com/drive/1w0PGlopthsVcN-SzLre9GUZgtfWthReR#scrollTo=KHlIc9YeYKQa)
+
+## Requirements
+
+To use this project, ensure the following:
+- A stable internet connection.
+- A Google account for accessing Google Colab.
